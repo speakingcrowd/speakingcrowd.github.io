@@ -121,7 +121,7 @@ header {
    ========================================================================== */
 
 .notify h1 {
-	font-size:2em;
+	font-size:4em;
 	}   
 .notify h2 {
 	text-transform:none;
@@ -132,6 +132,9 @@ header {
 	margin:20px auto 20px auto;
 	padding:0;
 	}
+.notify h2.subheading {
+	color: #4a71b7;
+}
 .notify p {
 	font-size:1.3em;
 	font-weight:400;
